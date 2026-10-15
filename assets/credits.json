@@ -1,0 +1,176 @@
+[
+  {
+    "file": "assets/hero.jpg",
+    "source_repository": "https://github.com/SakshamShandilya/Urabbo-Interior-Website",
+    "download_url": "https://raw.githubusercontent.com/SakshamShandilya/Urabbo-Interior-Website/master/public/images/p6.jpg",
+    "description": "Bright living room with solid wood coffee table, wood floor, and grey sofa.",
+    "original_size": [
+      1920,
+      1270
+    ],
+    "size": [
+      1600,
+      1058
+    ],
+    "bytes": 319410,
+    "sha256": "659637cfb4e3c5a06221611aa18a31c799f6a044e4ee20be9d981c47fafc963f",
+    "usage_note": "Illustrative stock/sample photograph, not an actual Shahbaz Furniture project. Original photographer and photo licence are not documented by the source repository; verify or replace before public commercial use."
+  },
+  {
+    "file": "assets/dining.jpg",
+    "source_repository": "https://github.com/SakshamShandilya/Urabbo-Interior-Website",
+    "download_url": "https://raw.githubusercontent.com/SakshamShandilya/Urabbo-Interior-Website/master/public/images/p7.jpg",
+    "description": "Airy white table and grey dining chairs with wooden legs and parquet floor.",
+    "original_size": [
+      1920,
+      1280
+    ],
+    "size": [
+      900,
+      600
+    ],
+    "bytes": 92109,
+    "sha256": "0823fb6be05883e1bbc666edf1d931e2ffcdc7df3a978b7b427bbde578f14f17",
+    "usage_note": "Illustrative stock/sample photograph, not an actual Shahbaz Furniture project. Original photographer and photo licence are not documented by the source repository; verify or replace before public commercial use."
+  },
+  {
+    "file": "assets/living.jpg",
+    "source_repository": "https://github.com/AlmogWer/furniture-e-commerce",
+    "download_url": "https://raw.githubusercontent.com/AlmogWer/furniture-e-commerce/master/src/assets/hero-bcg.jpeg",
+    "description": "Dark green living room with upholstered sofas and wooden furniture.",
+    "original_size": [
+      5707,
+      3990
+    ],
+    "size": [
+      900,
+      629
+    ],
+    "bytes": 89538,
+    "sha256": "ba88189508d08c3787c91a4f1111ce72874d3418dd10b2c56e6b7242d13406b1",
+    "usage_note": "Illustrative stock/sample photograph, not an actual Shahbaz Furniture project. Original photographer and photo licence are not documented by the source repository; verify or replace before public commercial use."
+  },
+  {
+    "file": "assets/bedroom.jpg",
+    "source_repository": "https://github.com/SakshamShandilya/Urabbo-Interior-Website",
+    "download_url": "https://raw.githubusercontent.com/SakshamShandilya/Urabbo-Interior-Website/master/public/images/p10.jpg",
+    "description": "Bedroom with extensive pale wood paneling and headboard.",
+    "original_size": [
+      1280,
+      720
+    ],
+    "size": [
+      900,
+      506
+    ],
+    "bytes": 79723,
+    "sha256": "f828d96ba1daa9c31a19b83c4e56d5c4087da63a6c77954f991e29c72eab195e",
+    "usage_note": "Illustrative stock/sample photograph, not an actual Shahbaz Furniture project. Original photographer and photo licence are not documented by the source repository; verify or replace before public commercial use."
+  },
+  {
+    "file": "assets/doors.jpg",
+    "source_repository": "https://github.com/Jositett/wooden_doors",
+    "download_url": "https://raw.githubusercontent.com/Jositett/wooden_doors/main/images/5.jpg",
+    "description": "Dark wooden entrance door with narrow glass side panel in pale hallway.",
+    "original_size": [
+      768,
+      1024
+    ],
+    "size": [
+      768,
+      1024
+    ],
+    "bytes": 52691,
+    "sha256": "9dea2a6b7d95c93d55be42ac6cfcaeec21b9eaa11a4b7643f98bcfc5196c56e4",
+    "usage_note": "Illustrative stock/sample photograph, not an actual Shahbaz Furniture project. Original photographer and photo licence are not documented by the source repository; verify or replace before public commercial use."
+  },
+  {
+    "file": "assets/kitchen.jpg",
+    "source_repository": "https://github.com/SakshamShandilya/Urabbo-Interior-Website",
+    "download_url": "https://raw.githubusercontent.com/SakshamShandilya/Urabbo-Interior-Website/master/public/images/k4.jpg",
+    "description": "Warm wooden kitchen with large wood-finished island and ceiling beams.",
+    "original_size": [
+      1920,
+      1283
+    ],
+    "size": [
+      900,
+      601
+    ],
+    "bytes": 147336,
+    "sha256": "96087186eefb59199909c351d1f56510853c2e7c9f76c27eb9175230b4cfa898",
+    "usage_note": "Illustrative stock/sample photograph, not an actual Shahbaz Furniture project. Original photographer and photo licence are not documented by the source repository; verify or replace before public commercial use."
+  },
+  {
+    "file": "assets/office.jpg",
+    "source_repository": "https://github.com/SakshamShandilya/Urabbo-Interior-Website",
+    "download_url": "https://raw.githubusercontent.com/SakshamShandilya/Urabbo-Interior-Website/master/public/images/co4.jpg",
+    "description": "Small contemporary home office with white desk and shelving.",
+    "original_size": [
+      1920,
+      1280
+    ],
+    "size": [
+      900,
+      600
+    ],
+    "bytes": 55169,
+    "sha256": "a7e6a6440df5668ffb3d58605211850329f60bbc0e4c7330604acf5eb368348b",
+    "usage_note": "Illustrative stock/sample photograph, not an actual Shahbaz Furniture project. Original photographer and photo licence are not documented by the source repository; verify or replace before public commercial use."
+  },
+  {
+    "file": "assets/workshop.jpg",
+    "source_repository": "https://github.com/AlmogWer/furniture-e-commerce",
+    "download_url": "https://raw.githubusercontent.com/AlmogWer/furniture-e-commerce/master/src/assets/hero-bcg-2.jpeg",
+    "description": "Carpenter working at wooden workbench in authentic warm workshop.",
+    "original_size": [
+      1000,
+      661
+    ],
+    "size": [
+      900,
+      595
+    ],
+    "bytes": 116960,
+    "sha256": "87a9230a8e78ef231c8dd87e27a60ae5431cf6e4054ab0c3337102c52fb69f22",
+    "usage_note": "Illustrative stock/sample photograph, not an actual Shahbaz Furniture project. Original photographer and photo licence are not documented by the source repository; verify or replace before public commercial use."
+  },
+  {
+    "files": [
+      "assets/fonts/noto-nastaliq-urdu-arabic-400-normal.woff2",
+      "assets/fonts/noto-nastaliq-urdu-arabic-600-normal.woff2"
+    ],
+    "family": "Noto Nastaliq Urdu",
+    "source": "https://www.npmjs.com/package/@fontsource/noto-nastaliq-urdu",
+    "package_version": "5.3.0",
+    "licence": "SIL Open Font License 1.1",
+    "licence_file": "assets/fonts/noto-nastaliq-urdu-OFL.txt",
+    "integrity_note": "Downloaded package tarball matched registry SHA-512 integrity."
+  },
+  {
+    "file": "assets/pakistani-courtyard.jpg",
+    "source": "Original image generated using OpenAI image generation for this website",
+    "description": "Illustrative premium Pakistani courtyard with carved sheesham-inspired wooden armchairs, a low carved timber table, charpai bench, jali screen, arches, warm sunlight, and understated ochre/indigo textiles.",
+    "original_generated_file": "/workspace/generated_images/exec-6637b402-6b3f-489c-9a4c-66c50f2528ac.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "bytes": 447821,
+    "sha256": "f882cc507bc5db5846430c9600826f25320b84db41d924780b860f54a4f49647",
+    "usage_note": "Original generated brand concept image, not a photograph of an actual Shahbaz Furniture project or product."
+  },
+  {
+    "file": "assets/dastarkhwan-dining.jpg",
+    "source": "Original image generated using OpenAI image generation for this website",
+    "description": "Illustrative Pakistani dining room with a dark carved sheesham-inspired six-seater dining table, cream-upholstered timber chairs, indigo block-print runner, jali, warm cream plaster, and terracotta accents.",
+    "original_generated_file": "/workspace/generated_images/exec-f8e53339-ded5-4dad-8f14-ea1c76179a5e.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "bytes": 492802,
+    "sha256": "6bae75a2783782695f0646fd824f7f55d5c5153b86538a21ed89b34d6519cba6",
+    "usage_note": "Original generated Dastarkhwan Dining Table concept image, not a photograph of an actual Shahbaz Furniture project or product."
+  }
+]
